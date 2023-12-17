@@ -1,0 +1,8 @@
+{
+    "tokenSend": "адрес токена для оплаты",
+    "tokenDecimals": 18,
+    "tokenSendAmount": 0,
+    "Slipage": 20,
+    "tokenRecive": "адрес токена, на который свапаешь",
+    "JEDI_ROUTER": ""
+}
